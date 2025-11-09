@@ -8,10 +8,13 @@ Web app that fetches and displays a list of brewinfo from the Openbrewerydb. The
 - Search the brewlist.
 - Supports pagination with "Previous Page" and "Next Page" buttons.
 - Allows users to choose the number of brewlist displayed per page.
+- Allows users to mark the brew as favorite and can see them on Favorite page
 
 ## Technologies Used
 
 - React
+- Next js 16
+- App router
 - JavaScript (ES6+)
 - Openbrewerydb API
 
