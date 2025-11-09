@@ -1,6 +1,6 @@
 # React Brewinfo App
 
-This is a React application that fetches and displays a list of brewinfo from the Openbrewerydb. The app supports pagination, search brewlist and allows users to customize the number of brewlist displayed per page.
+Web app that fetches and displays a list of brewinfo from the Openbrewerydb. The app supports pagination, search brewlist and allows users to customize the number of brewlist displayed per page and this app uses Next.js 16 app router and user can mark the brewers as favorite and can see them on Favorite page.
 
 ## Features
 
